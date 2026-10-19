@@ -78,7 +78,7 @@ Through the 10 levels, the project covers:
 - **Routing tables**: destination network, next hop, and the default route `0.0.0.0/0`.
 - **OSI layers**: the seven-layer model, with a focus on layer 2 (data link, switches) and layer 3 (network, IP and routers).
 
-##OSI and TCP/Ip layers
+## OSI and TCP/Ip layers
 ![OSI and TCP/Ip layers](TCP_IP&OSI_model.png)
 
 ### References
