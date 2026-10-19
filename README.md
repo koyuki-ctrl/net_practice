@@ -50,15 +50,21 @@ Through the 10 levels, the project covers:
 - Only the content of the repository is evaluated during the defense.
 - During the defense, three random levels must be completed within a limited amount of time. No external tools are allowed (a simple calculator such as `bc` is tolerated, but it is the limit).
 
-### Repository layout
+## Submission details
 
 ```
 .
 ├── README.md
-├── <level 1 configuration file>
-├── <level 2 configuration file>
-├── ...
-└── <level 10 configuration file>
+├── level1.json
+├── level2.json
+├── level3.json
+├── level4.json
+├── level5.json
+├── level6.json
+├── level7.json
+├── level8.json
+├── level9.json
+└── level10.json
 ```
 
 ## Resources
@@ -72,6 +78,7 @@ Through the 10 levels, the project covers:
 - **Routing tables**: destination network, next hop, and the default route `0.0.0.0/0`.
 - **OSI layers**: the seven-layer model, with a focus on layer 2 (data link, switches) and layer 3 (network, IP and routers).
 
+##OSI and TCP/Ip layers
 ![OSI and TCP/Ip layers](TCP_IP&OSI_model.png)
 
 ### References
